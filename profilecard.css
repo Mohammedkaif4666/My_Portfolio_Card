@@ -41,7 +41,7 @@
   }
   
   .front {
-    background-image: url("images/image.png");
+    background-image: url("image.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -82,7 +82,7 @@
     }
     
     .back {
-      background: url(images/img2_.jpg);
+      background: url(img2_.jpg);
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
